@@ -1,0 +1,79 @@
+# 会议
+#论文/材料收集#
+一、A 类
+中国计算机学会推荐国际学术会议
+(数据库/数据挖掘/内容检索)序号 会议简称 会议全称出版社网址1SIGMODACM Conference on Management of DataACM http://dblp.uni-trier.de/db/conf/sigmod/ 2SIGKDD
+ACM Knowledge Discovery and Data MiningACMhttp://dblp.uni-trier.de/db/conf/kdd/3SIGIRInternational Conference on Research on Development in Information Retrieval ACM
+ http://dblp.uni-trier.de/db/conf/sigir/4VLDBInternational Conference on Very Large Data BasesMorgan Kaufmann/ACM
+ http://dblp.uni-trier.de/db/conf/vldb/5ICDEIEEE International Conference on Data EngineeringIEEE
+ http://dblp.uni-trier.de/db/conf/icde/
+
+二、B 类
+   序号
+    会议简称
+   会议全称
+      出版社
+      网址
+    1
+ CIKM
+ACM International Conference on Information and Knowledge Management
+  ACM
+ http://dblp.uni-trier.de/db/conf/cikm/
+   2
+   PODS
+ ACM SIGMOD Conference on Principles of DB Systems
+     ACM
+   http://dblp.uni-trier.de/db/conf/pods/
+   3
+    DASFAA
+   Database Systems for Advanced Applications
+      Springer
+      http://dblp.uni-trier.de/db/conf/dasfaa/
+    4
+ ECML-PKDD
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+  Springer
+ http://dblp.uni-trier.de/db/conf/ecml/
+http://dblp.uni-trier.de/db/conf/pkdd/
+   5
+   ISWC
+ IEEE International Semantic Web Conference
+     IEEE
+   http://dblp.uni-trier.de/db/conf/semweb/
+   6
+    ICDM
+   International Conference on Data Mining
+      IEEE
+      http://dblp.uni-trier.de/db/conf/icdm/
+    7
+  ICDT
+  International Conference on Database Theory
+   Springer
+    http://dblp.uni-trier.de/db/conf/icdt/
+    8
+ EDBT
+International Conference on Extending DB Technology
+  Springer
+ http://dblp.uni-trier.de/db/conf/edbt/
+   9
+   CIDR
+ International Conference on Innovation Database Research
+     Online Proceeding
+   http://dblp.uni-trier.de/db/conf/cidr/
+   10
+    SDM
+   SIAM International Conference on Data Mining
+      SIAM
+      http://dblp.uni-trier.de/db/conf/sdm/
+    11
+   WSDM
+  ACM International Conference on Web Search and Data Mining
+   ACM
+    http://dblp.uni-trier.de/db/conf/wsdm/
+  
+三、C 类序号会议简称会议全称出版社网址1DEXA
+Database and Expert System ApplicationsSpringerhttp://dblp.uni-trier.de/db/conf/dexa/2ECIREuropean Conference on IR ResearchSpringerhttp://dblp.uni-trier.de/db/conf/ecir/3WebDB
+International ACM Workshop on Web and DatabasesACMhttp://dblp.uni-trier.de/db/conf/webdb/4 ERInternational Conference on Conceptual ModelingSpringerhttp://dblp.uni-trier.de/db/conf/er/5MDM
+International Conference on Mobile Data ManagementIEEEhttp://dblp.uni-trier.de/db/conf/mdm/6 SSDBM International Conference on Scientific and Statistical DB ManagementIEEEhttp://dblp.uni-trier.de/db/conf/ssdbm/7WAIM
+International Conference on Web Age Information ManagementSpringerhttp://dblp.uni-trier.de/db/conf/waim/8SSTD International Symposium on Spatial and Temporal DatabasesSpringerhttp://dblp.uni-trier.de/db/conf/ssd/9PAKDD
+Pacific-Asia Conference on Knowledge Discovery and Data MiningSpringerhttp://dblp.uni-trier.de/db/conf/pakdd/10APWeb The Asia Pacific Web ConferenceSpringerhttp://dblp.uni-trier.de/db/conf/apweb/11WISEWeb Information Systems EngineeringSpringerhttp://dblp.uni-trier.de/db/conf/wise/12ESWC Extended Semantic Web ConferenceElsevierhttp://dblp.uni-trier.de/db/conf/esws/

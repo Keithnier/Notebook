@@ -1,0 +1,91 @@
+# 期刊
+#论文/材料收集#
+
+一、A 类
+中国计算机学会推荐国际学术期刊
+(数据库/数据挖掘/内容检索)序号刊物简称刊物全称出版社网址1TODS
+ACM Transactions on Database SystemsACMhttp://dblp.uni-trier.de/db/journals/tods/2TOISACM Transactions on Information Systems ACM http://dblp.uni-trier.de/db/journals/tois/3 TKDE IEEE Transactions on Knowledge and Data Engineering IEEE
+ http://dblp.uni-trier.de/db/journals/tkde/4VLDBJ VLDB JournalSpringer
+ http://dblp.uni-trier.de/db/journals/vldb/
+二、B 类
+    序号
+     刊物简称
+   刊物全称
+     出版社
+     网址
+    1
+ TKDD
+ACM Transactions on Knowledge Discovery from Data
+  ACM
+ http://dblp.uni-trier.de/db/journals/tkdd/
+    2
+   AEI
+ Advanced Engineering Informatics
+    Elsevier
+   http://dblp.uni-trier.de/db/journals/aei/
+    3
+     DKE
+   Data and Knowledge Engineering
+     Elsevier
+     http://dblp.uni-trier.de/db/journals/dke/
+    4
+   DMKD
+  Data Mining and Knowledge Discovery
+   Springer
+   http://dblp.uni-trier.de/db/journals/datamine/
+    5
+ EJIS
+European Journal of Information Systems
+  The OR Society
+ http://dblp.uni-trier.de/db/journals/ejis/
+    6
+    GeoInformatica
+    Springer
+   http://dblp.uni-trier.de/db/journals/geoinformatica/
+    7
+   IPM
+ Information Processing and Management
+    Elsevier
+   http://dblp.uni-trier.de/db/journals/ipm/
+    8
+        Information Sciences
+     Elsevier
+     http://dblp.uni-trier.de/db/journals/isci/
+    9
+   IS
+  Information Systems
+   Elsevier
+   http://dblp.uni-trier.de/db/journals/is/
+    10
+ JASIST
+Journal of the American Society for Information Science and Technology
+  American Society for Information Science and Technology
+ http://dblp.uni-trier.de/db/journals/jasis/
+    11
+     JWS
+   Journal of Web Semantics
+     Elsevier
+     http://dblp.uni-trier.de/db/journals/ws/
+    12
+ KIS
+Knowledge and Information Systems
+  Springer
+ http://dblp.uni-trier.de/db/journals/kais/
+    13
+   TWEB
+  ACM Transactions on the Web
+     ACM
+   http://dblp.uni-trier.de/db/journals/tweb/
+ 
+三、C 类序号刊物简称 刊物全称出版社
+ 网址1DPD
+Distributed and Parallel DatabasesSpringerhttp://dblp.uni-trier.de/db/journals/dpd/2 I&MInformation and Management Elsevierhttp://dblp.uni-trier.de/db/journals/iam/3IPL
+Information Processing LettersElsevierhttp://dblp.uni-trier.de/db/journals/ipl/4IRInformation RetrievalSpringerhttp://dblp.uni-trier.de/db/journals/ir/5IJCIS International Journal of Cooperative Information SystemsWorld Scientific
+ http://dblp.uni-trier.de/db/journals/ijcis/6IJGIS
+International Journal of Geographical Information ScienceTaylor & Francishttp://dblp.uni-trier.de/db/journals/gis/7IJIS International Journal of Intelligent Systems Wiley
+  http://dblp.uni-trier.de/db/journals/ijis/8IJKMInternational Journal of Knowledge ManagementIGI http://dblp.uni-trier.de/db/journals/ijkm/ 9IJSWIS
+International Journal on Semantic Web and Information SystemsIGIhttp://dblp.uni-trier.de/db/journals/ijswis/10 JCIS Journal of Computer Information Systems IACIS
+ http://dblp.uni-trier.de/db/journals/jcis/11JDM Journal of Database ManagementIGI-Global
+ http://dblp.uni-trier.de/db/journals/jdm/12JGITM
+Journal of Global Information Technology ManagementIvy League Publishinghttp://www.tandfonline.com/loi/ugit20#.Vnv35pN97rI13JIISJournal of Intelligent Information Systems Springer http://dblp.uni-trier.de/db/journals/jiis/14JSIS Journal of Strategic Information SystemsElsevier
+ http://dblp.uni-trier.de/db/journals/jsis/
